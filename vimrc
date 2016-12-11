@@ -25,6 +25,8 @@ Plug 'altercation/vim-colors-solarized'
 
 Plug 'https://github.com/ctrlpvim/ctrlp.vim'
 
+Plug 'bling/vim-airline'
+
 call plug#end()
 
 " For vim-ccolors-solarized
